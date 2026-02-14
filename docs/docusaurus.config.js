@@ -12,12 +12,11 @@ const config = {
   tagline: 'Technical Documentation for the mCase Financials Module',
   favicon: 'img/favicon.ico',
 
-  // Set your site URL for deployment
-  url: 'https://davidgubalarm.github.io',       // TODO: Replace with your actual site URL
-  baseUrl: '/',
+  url: 'https://davidgubalarm.github.io',
+  baseUrl: '/financials-module/',
 
-  organizationName: 'your-org',             // TODO: Replace with your GitHub org or username
-  projectName: 'financials_module',
+  organizationName: 'davidgubalarm',
+  projectName: 'financials-module',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',

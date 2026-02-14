@@ -17,7 +17,7 @@
 - Prism `additionalLanguages: ['csharp']` for C# syntax highlighting
 - GitHub Pages deployment configured via `.github/workflows/deploy-docs.yml`
   - Triggers on push to `main` when docs files change
-  - `baseUrl: '/'` — site is served from the root (not a subdirectory)
+  - `baseUrl: '/financials-module/'` for GitHub Pages at `https://davidgubalarm.github.io/financials-module/`
   - Uses `actions/deploy-pages@v4` (GitHub Pages source must be set to "GitHub Actions" in repo settings)
   - `npm ci` requires `package-lock.json` to be committed
 - PowerShell does not support `&&` for chaining commands; use `;` instead
