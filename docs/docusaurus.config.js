@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set your site URL for deployment
-  url: 'https://davidgubalarm.github.io/financials-module',       // TODO: Replace with your actual site URL
+  url: 'https://davidgubalarm.github.io',       // TODO: Replace with your actual site URL
   baseUrl: '/',
 
   organizationName: 'your-org',             // TODO: Replace with your GitHub org or username
